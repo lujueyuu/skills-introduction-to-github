@@ -1,4 +1,6 @@
 # Daily Learning
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
+
 ## Morning Planning
 - [ ] 查看 [Github Blog] 获取选题灵感
 - [ ] 学习 [Github [Pages] 的使用方法
