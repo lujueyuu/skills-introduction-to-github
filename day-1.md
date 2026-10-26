@@ -4,3 +4,8 @@
 - [ ] 学习 [Github [Pages] 的使用方法
 - [ ] 将我的第一篇博客转换为网页形式
 ## Review
+使用 [ffmpeg] 将图片或视频从深色模式转换为浅色模式
+
+```bash
+ffmpeg -i imput.mp4 -vf "nagete,hue=h=180,eq=contrast=1.2:saturation=1.1" output.mp4
+```
